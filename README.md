@@ -10,14 +10,13 @@ Lately, I have shifted my focus to **Mobile Development with Flutter**, where I 
 - Security Operations Center (SOC) fundamentals  
 - Incident Response & Threat Analysis  
 - Familiar with OWASP Top 10 vulnerabilities  
-- Malware analysis basics & digital forensics  
 - Passion for secure coding and mobile security  
 
 ---
 
 ## 📱 Mobile Development (Flutter)
 - Building cross-platform apps for **Android & iOS** using Flutter & Dart  
-- State management: **Provider, Riverpod, BLoC**  
+- State management: **BLoC**  
 - Firebase integration (Authentication, Firestore, Push Notifications)  
 - Applying **Clean Code & Design Patterns**  
 - Focused on **mobile app security** and performance optimization  
@@ -25,7 +24,7 @@ Lately, I have shifted my focus to **Mobile Development with Flutter**, where I 
 ---
 
 ## 🛠️ Tech Stack
-- **Languages:** Dart, Python, C++  
+- **Languages:** Dart
 - **Mobile:** Flutter, Firebase  
 - **Security Tools:** Wireshark, Splunk, QRadar, Burp Suite  
 - **Other:** Git, GitHub, Linux  
@@ -47,6 +46,6 @@ Lately, I have shifted my focus to **Mobile Development with Flutter**, where I 
 ---
 
 ## 📫 How to reach me
-- LinkedIn: [Your LinkedIn Link]  
-- Email: [Your Email Address]  
+- LinkedIn: https://www.linkedin.com/in/mohammad-moustafa-752002252/
+- Email: mohammad.moustafa.m1@gmail.com
 
