@@ -1,51 +1,49 @@
-# Hi there 👋, I'm Mohammad Moustafa
+<h2 align="left">Hi 👋! My name is Mohammad Moustafa</h2>
 
-## 🚀 About Me
-I started my journey in **Cybersecurity**, gaining hands-on experience in areas like SOC analysis, incident response, and security best practices.  
-Lately, I have shifted my focus to **Mobile Development with Flutter**, where I combine my security background with clean, scalable, and user-friendly mobile applications.  
+###
 
----
+<p align="left">I'm a passionate Flutter Developer with experience building high-performance cross-platform mobile applications. I specialize in clean architecture, advanced state management using Bloc, and seamless Firebase integration. I strive to create intuitive and engaging user experiences with scalable and maintainable code.</p>
 
-## 🛡️ Cybersecurity Experience
-- Security Operations Center (SOC) fundamentals  
-- Incident Response & Threat Analysis  
-- Familiar with OWASP Top 10 vulnerabilities  
-- Passion for secure coding and mobile security  
+###
 
----
+<div align="left">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dart/dart-original.svg" height="30" alt="dart logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flutter/flutter-original.svg" height="30" alt="flutter logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="30" alt="git logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/firebase/firebase-plain.svg" height="30" alt="firebase logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" height="30" alt="github logo"  />
+</div>
 
-## 📱 Mobile Development (Flutter)
-- Building cross-platform apps for **Android & iOS** using Flutter & Dart  
-- State management: **BLoC**  
-- Firebase integration (Authentication, Firestore, Push Notifications)  
-- Applying **Clean Code & Design Patterns**  
-- Focused on **mobile app security** and performance optimization  
+###
 
----
+<div align="left">
+  <a href="https://www.instagram.com/themomo_1/" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=E4405F&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="instagram logo"  />
+  </a>
+  <a href="mohammad.moustafa.m1@gmail.com" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="gmail logo"  />
+  </a>
+  <a href="https://www.linkedin.com/in/mohammad-moustafa-752002252/" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="linkedin logo"  />
+  </a>
+  <a href="01044150816" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=Whatsapp&logo=whatsapp&label=&color=25D366&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="whatsapp logo"  />
+  </a>
+</div>
 
-## 🛠️ Tech Stack
-- **Languages:** Dart
-- **Mobile:** Flutter, Firebase  
-- **Security Tools:** Wireshark, Splunk, QRadar, Burp Suite  
-- **Other:** Git, GitHub, Linux  
+###
 
----
+<img align="right" height="150" src="https://media.giphy.com/media/v1.Y2lkPWVjZjA1ZTQ3dGQ1eW5vOXR1OTk2MGhkYmZqODVxaTFyenh4NWRjaHllN3NrOHlkcyZlcD12MV9naWZzX3NlYXJjaCZjdD1n/ENY5vJgJPEfG3Ym14H/giphy.gif"  />
 
-## 🌱 Currently Learning
-- Advanced Flutter design patterns  
-- CI/CD pipelines for mobile apps  
-- Secure coding practices in mobile development  
+###
 
----
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=theemomo&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false" height="150" alt="stats graph"  />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=theemomo&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false" height="150" alt="languages graph"  />
+</div>
 
-## 🤝 Open to
-- Junior **Flutter Developer** roles  
-- Collaborating on open-source mobile apps  
-- Security-focused mobile projects  
-
----
-
-## 📫 How to reach me
-- LinkedIn: https://www.linkedin.com/in/mohammad-moustafa-752002252/
-- Email: mohammad.moustafa.m1@gmail.com
-
+###
