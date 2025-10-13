@@ -2,7 +2,11 @@
 
 ###
 
-<p align="left">I'm a passionate Flutter Developer with experience building high-performance cross-platform mobile applications. I specialize in clean architecture, advanced state management using Bloc, and seamless Firebase integration. I strive to create intuitive and engaging user experiences with scalable and maintainable code.</p>
+<p align="left">I’m a senior Computer Science student and a passionate Flutter developer dedicated to building secure, highperformance, and user-friendly mobile applications. I follow clean architecture principles, use Bloc for state
+management, and implement dynamic theming and localization to ensure scalability and maintainability
+across different platforms. Before focusing on Flutter, I have a background in cybersecurity and networking,
+having studied CCNA and the SOC/Incident Response path on TryHackMe. This knowledge allows me to
+integrate security best practices into every stage of the development process</p>
 
 ###
 
